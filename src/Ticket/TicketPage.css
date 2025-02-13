@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+/* 
+     {
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+       */
+
+.ticket-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background: linear-gradient(135deg, #e09, #d0e); */
+    background: transparent;
+    padding: 20px;
+    /* font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal; */
+}
+
+.ticket {
+    width: 400px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.ticket-header {
+    /* background: #6c63ff; */
+    /* background:  rgb(141, 63, 8); */
+    background: rgb(75,14,40);
+background: linear-gradient(90deg, rgba(75,14,40,1) 0%, rgba(144,74,20,1) 50%, rgba(75,14,40,1) 100%);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    /* border-bottom: 3px solid #534ccf; */
+}
+
+.ticket-header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.ticket-header p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.ticket-body {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ticket-details p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.ticket-qr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.ticket-footer {
+    text-align: center;
+    padding: 15px;
+    /* background: #6c63ff; */
+    background: rgb(75,14,40);
+    background: linear-gradient(90deg, rgba(75,14,40,1) 0%, rgba(144,74,20,1) 50%, rgba(75,14,40,1) 100%);
+    color: #fff;
+    font-size: 14px;
+}
+
+.chat-popup {
+    display: flex;
+    align-items: center;
+    background-color: #D8C3A5;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+#chat-popup-btn {
+    background-color: #D8C3A5; 
+    border: none;
+    padding: 0px 15px; 
+    cursor: pointer;
+    width: 50px; /* Initial width for just the icon */
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+    transition: width 0.3s ease, padding 0.3s ease; /* Smooth transition */
+    overflow: hidden; /* Hide the text initially */
+    white-space: nowrap;
+}
+
+#chat-popup-btn img{
+    width: 100%;
+    height: auto;
+    transform: scale(2.5);
+} 

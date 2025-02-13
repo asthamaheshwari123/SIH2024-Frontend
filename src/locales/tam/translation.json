@@ -1,0 +1,232 @@
+{
+    "Welcome": "திரிவேணி!",
+    "Home": "முகப்பு",
+    "About": "பற்றி",
+    "More": "மேலும்",
+    "Admin Login": "நிர்வாகி உள்நுழைவு",
+    "Events": "நிகழ்வுகள்",
+    "Languages": "மொழிகள்",
+    "Book Now": "புத்தகம்  ",
+    "Welcome_message": "திரிவேணி அருங்காட்சியகத்தில் வரலாற்று மற்றும் கலாச்சாரத்தின் செழுமை அனுபவிக்கவும். உலக பாரம்பரியத்தைத் தழுவிய எங்கள் கண்காட்சிகளை கண்டறியவும். உங்கள் பயணத்தை இன்று திட்டமிடுங்கள்!    ",
+    "Book Your Ticket": "உங்கள் டிக்கெட்டை பதிவு செய்க",
+    "Current Exhibition": "தற்போதைய கண்காட்சி",
+    "Exhibition_message": "எங்கள் பல்வேறு இடங்களில் அண்மை கண்காட்சிகள். அருங்காட்சியகத்தில் ஒன்றாக மகிழுங்கள்.",
+    "Card_1": "பாலிலியோ டிசென்ட் வி.ஆர். டிம் கிரீக்குடன்",
+    "Card_1_time": "தினமும் 12:30 - 1:00 திறந்திருக்கும்",
+    "Card_2": "விஷனரி விச்தாஸ் எக்ஸ்பிரஸ்ஸிவ் எகோஸ்",
+    "Card_2_time": "தினமும் 12:30 - 2:00 திறந்திருக்கும்",
+    "Card_3": "புதிய ஹப்",
+    "Card_3_time": "தினமும் 12:30 - 2:00 திறந்திருக்கும்",
+    "Mutiny: Works by Géricault": "கலகம்: ஜெரிகால்ட் விளக்கங்கள்",
+    "See All Exhibitions": "அனைத்து கண்காட்சிகளையும் பார்க்கவும்",
+    "Planning to visit?": "விழா செல்ல திட்டமிடுகிறீர்களா?",
+    "Look at the timetable": "அட்டவணையை பாருங்கள்",
+    "Museum open today 9am-5pm": "அருங்காட்சியகம் இன்று காலை 9 முதல் மாலை 5 மணி வரை திறந்திருக்கும்",
+    "Last admission at 4pm": "கடைசி அனுமதி மாலை 4 மணிக்கு",
+    "18Nov-20Dec Night of Creative revealation": "18 நவம்பர் - 20 டிசம்பர் படைப்பாற்றல் வெளிப்படுத்தல் இரவு",
+    "Upcoming Events": "எதிர்வரும் நிகழ்வுகள்",
+    "Framed Fantasies": "சிறந்த கற்பனைகள்",
+    "18 Nov - 22 Nov | 09AM-19PM": "18 நவம்பர் - 22 நவம்பர் | காலை 09 மணி - மாலை 07 மணி",
+    "Check More": "மேலும் பார்க்கவும்",
+    "Palette of Dreams": "கனவுகளின் பேலட்",
+    "19 Nov - 22 Nov | 09AM-19PM": "19 நவம்பர் - 22 நவம்பர் | காலை 09 மணி - மாலை 07 மணி",
+    "Innovative Visions": "புதிய பார்வைகள்",
+    "20 Nov - 29 Nov | 09AM-19PM": "20 நவம்பர் - 29 நவம்பர் | காலை 09 மணி - மாலை 07 மணி",
+    "Ancient Wonders": "பழமையான அதிசயங்கள்",
+    "Contemporary Art": "நவீன கலை",
+    "Curators Selections": "கியூரேட்டர்களின் தேர்வுகள்",
+    "Museum Insights": "அருங்காட்சியக பார்வைகள்",
+    "Embark on a journey of discovery as you uncover captivating narratives and insights about the artifacts and historical narratives presented within our museum. Gain a deeper understanding of the cultural tapestry that has shaped human civilization.": "எங்கள் அருங்காட்சியகத்தில் காண்பிக்கப்படும் பொருட்கள் மற்றும் வரலாற்று கதைகளின் மீது கட்டுப்படுத்தும் கதைகள் மற்றும் பார்வைகளை கண்டறிய மானுட நாகரிகத்தை உருவாக்கிய கலாச்சார துணிக்கையின் ஆழமான புரிதலைப் பெறுங்கள்.",
+    "Triveni Museum Highlights": "திரிவேணி அருங்காட்சியக சிறப்பம்சங்கள்",
+    "Get updates on fun stuff you probably want to know about in your inbox.": "உங்கள் மின்னஞ்சலில் நீங்கள் அறிய விரும்பும் வேடிக்கை விஷயங்கள் பற்றிய புதுப்பிப்புகளைப் பெறுங்கள்.",
+    "Menu": "மெனு",
+    "About Us": "எங்களை பற்றி",
+    "Support": "ஆதரவு",
+    "Shipping": "கப்பல் போக்குவரத்து",
+    "Returns": "திரும்பல்",
+    "Help": "உதவி",
+    "FAQ": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+    "Terms": "விதிமுறைகள்",
+    "Conditions": "நிபந்தனைகள்",
+    "Privacy Policy": "தனியுரிமை கொள்கை",
+    "Contact": "தொடர்பு கொள்ளுங்கள்",
+    "Login": "உள்நுழைவு",
+    "Matrix Mitr": "மேட்ரிக்ஸ் மித்ர்",
+    "12 Dec - 22 Dec | 09AM-19PM": "12 டிசம்பர் - 22 டிசம்பர் | காலை 09 மணி - மாலை 07 மணி",
+    "1 Dec - 10 Dec | 09AM-19PM": "1 டிசம்பர் - 10 டிசம்பர் | காலை 09 மணி - மாலை 07 மணி",
+    "Email Address": "மின்னஞ்சல் முகவரி",
+    "Meticulously Art":"விவரமான கலை",
+
+
+
+    "Triveni Museum": "திரிவேணி",
+  "Discover the rich heritage and cultural significance of Triveni Museum through a captivating journey of art, history, and innovation. Immerse yourself in the stories of the past and present, beautifully preserved within our walls.": "கலை, வரலாறு மற்றும் புதுமையின் மனமுடைய பயணத்தின் மூலம் திரிவேணி அருங்காட்சியகத்தின் வளமான பாரம்பரியத்தையும் கலாச்சார முக்கியத்தையும் கண்டறியுங்கள். எங்கள் சுவர்கள் உள்நோக்கி பாதுகாக்கப்பட்ட கடந்த காலமும் தற்போதைய கதைகளிலும் மூழ்குங்கள்.",
+  "History of Triveni Museum": "திரிவேணி அருங்காட்சியகத்தின் வரலாறு",
+  "Title 1": "தலைப்பு 1",
+  "Triveni Archaeological Museum is being established by Directorate of Archaeology, Archives and Museums M.P. Government on the occasion of Simhasth 2016": "சிம்ஹஸ்த் 2016 நிறைவாகத் தமிழக அரசு पुरात்வத்துறை, ஆதாரங்கள் மற்றும் அருங்காட்சியக இயக்குநரகம் மூலம் திரிவேணி पुरात்வ அருங்காட்சியகம் நிறுவப்படுகிறது.",
+  "Title 2": "தலைப்பு 2",
+  "Title 3": "தலைப்பு 3",
+  "It comprises of 3 galleries named Shaiv, Vaishnava and Shakt.": "இது ஶைவம், வைஷ்ணவம் மற்றும் ஷக்தம் என்ற பெயரால் மூன்று கேலரிகளை கொண்டுள்ளது.",
+  "Title 4": "தலைப்பு 4",
+  "The stone sculpture, coins, miniature painting and other material have been displayed in these gallery.": "இந்த கேலரிகளில் கல் சிற்பங்கள், நாணயங்கள், சிறிய ஓவியங்கள் மற்றும் பிற பொருட்கள் காட்சிப்படுத்தப்பட்டுள்ளன.",
+  "Title 5": "தலைப்பு 5",
+  "The Mahishasur mardini of Avara (Mandsour) and Kaumari of Bhanpura (Mandsour) are the best instance of Rastrakuta art of 8th century A.D. Other sculptures ": "ஆவரா (மண்டசூர்) இன் மஹிஷாசுர மர்தினி மற்றும் பன்புரா (மண்டசூர்) இன் கௌமாரி 8 ஆம் நூற்றாண்டு இஸ்வியின் ராஷ்ட்ரகூட கலைக்கான சிறந்த எடுத்துக்காட்டுகள். பிற சிற்பங்கள் ",
+  "Our Signature Aesthetic": "எங்கள் தனிப்பட்ட அழகு",
+  "Our Team": "எங்கள் குழு",
+  "John Doe": "ஜான் டோ",
+  "Director of Operations": "இயக்க இயக்குநர்",
+  "Anjali Mehta": "அஞ்சலி மேத்தா",
+  "Curator of Collections": "சேகரிப்புகளின் கியூரேட்டர்",
+  "Rajesh Sharma": "ராஜேஷ் சர்மா",
+  "Executive Director": "நிர்வாக இயக்குநர்",
+  "The Triveni concepts is based on the composition of three cult particular Shaivayan (Shiv), Krishnayan(Vasudev Krishna) and Durgayan (goddess Durga). ":"திரிவேணி கருத்து மூன்று தனித்துவமான குலங்களை அடிப்படையாகக் கொண்டது - ஶைவாயன் (சிவன்), கிருஷ்ணாயன் (வாசுதேவ கிருஷ்ணர்) மற்றும் துர்காயன் (துர்கை தேவீ).",
+
+
+  "Exhibitions":"கண்காட்சி",
+  "See Event Calendar":"நிகழ்ச்சி நாள்காட்டி பார்க்கவும்",
+  "Sculptures":"சிற்பங்கள்",
+
+
+
+
+  "Welcome to Triveni Museum": "திருவேனி அருங்காட்சியகத்திற்கு வரவேற்கிறோம்",
+  "Welcome to Triveni Museum! How can I assist you today?": "திருவேனி அருங்காட்சியகத்திற்கு வரவேற்கிறோம்! நான் இன்று உங்களுக்கு எவ்வாறு உதவ முடியும்?",
+  "Yes, I want to purchase a ticket": "ஆம், நான் ஒரு டிக்கெட் வாங்க விரும்புகிறேன்",
+  "No, I want to know something else": "இல்லை, நான் வேறு ஏதாவது தெரிந்துகொள்ள விரும்புகிறேன்",
+  "What's your name?": "உங்கள் பெயர் என்ன?",
+  "What is your age group?": "உங்கள் வயது பிரிவு என்ன?",
+  "What is your gender?": "உங்கள் பாலினம் என்ன?",
+  "What is your email address?": "உங்கள் மின்னஞ்சல் முகவரி என்ன?",
+  "What is your contact number?": "உங்கள் தொடர்பு எண் என்ன?",
+  "How many tickets would you like to purchase?": "நீங்கள் எத்தனை டிக்கெட்டுகளை வாங்க விரும்புகிறீர்கள்?",
+  "What is your preferred date of visit?": "நீங்கள் விரும்பும் வருகை தேதி என்ன?",
+  "What is your preferred time of visit?": "நீங்கள் விரும்பும் வருகை நேரம் என்ன?",
+  "What is your preferred time slot?": "நீங்கள் விரும்பும் நேர நேரம் என்ன?",
+
+  "Museum Information": "அருங்காட்சியக தகவல்",
+  "Exhibits and Collections": "காட்சிப்பொருட்கள் மற்றும் சேகரிப்புகள்",
+  "Events and Programs": "நிகழ்வுகள் மற்றும் திட்டங்கள்",
+  "Accessibility and Visitor Services": "அணுகல்தன்மை மற்றும் பார்வையாளர் சேவைகள்",
+
+  "Opening Hours": "திறந்திருக்கும் நேரம்",
+  "Admission Fees": "நுழைவுக் கட்டணம்",
+  "Location": "இடம்",
+  "Parking": "வாகன நிறுத்துமிடம்",
+
+  "Current Exhibitions": "தற்போதைய கண்காட்சிகள்",
+  "Upcoming Exhibitions": "வரவிருக்கும் கண்காட்சிகள்",
+  "Permanent Collection": "நிரந்தர சேகரிப்பு",
+  "Interactive Exhibits": "ஊடாடும் காட்சிப்பொருட்கள்",
+  "Photography Policy": "புகைப்பட கொள்கை",
+
+  "Guided Tours": "வழிகாட்டப்பட்ட சுற்றுலாக்கள்",
+  "Workshops and Educational Programs": "பட்டறைகள் மற்றும் கல்வி திட்டங்கள்",
+  "Special Events": "சிறப்பு நிகழ்வுகள்",
+  "Private Events": "தனியார் நிகழ்வுகள்",
+  "Museum Café": "அருங்காட்சியக காஃபே",
+
+  "Accessibility": "அணுகல்தன்மை",
+  "Audio Guides": "ஒலி வழிகாட்டிகள்",
+  "Stroller Policy": "குழந்தை வண்டி கொள்கை",
+  "Pet Policy": "செல்லப்பிராணி கொள்கை",
+  "Museum Membership": "அருங்காட்சியக உறுப்பினர்",
+
+  "The museum is open daily from 10 AM to 6 PM. On Fridays, it stays open until 8 PM. The museum is open on most public holidays except Christmas Day and New Year's Day.": "அருங்காட்சியகம் தினமும் காலை 10 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும். வெள்ளிக்கிழமைகளில் இது இரவு 8 மணி வரை திறந்திருக்கும். கிறிஸ்துமஸ் மற்றும் புத்தாண்டு தினம் தவிர பெரும்பாலான பொது விடுமுறை நாட்களில் அருங்காட்சியகம் திறந்திருக்கும்.",
+
+  "Admission fees are $15 for adults, $10 for seniors, and $8 for children under 12. Children under 5 enter for free.": "நுழைவுக் கட்டணம் பெரியவர்களுக்கு $15, மூத்த குடிமக்களுக்கு $10, மற்றும் 12 வயதுக்குட்பட்ட குழந்தைகளுக்கு $8. 5 வயதுக்குட்பட்ட குழந்தைகள் இலவசமாக நுழையலாம்.",
+
+  "The museum is located at 123 Main Street, Cityville, State, ZIP Code.": "அருங்காட்சியகம் 123 மெயின் ஸ்ட்ரீட், சிட்டிவில், மாநிலம், அஞ்சல் குறியீடு என்ற முகவரியில் அமைந்துள்ளது.",
+
+  "Yes, there is a parking lot adjacent to the museum with free parking for visitors.": "ஆம், பார்வையாளர்களுக்கான இலவச வாகன நிறுத்துமிடம் அருங்காட்சியகத்திற்கு அருகில் உள்ளது.",
+
+  "Currently, we have the 'Ancient Egypt' exhibition, the 'Modern Art Masters' collection, and the 'Dinosaurs of the Mesozoic' display.": "தற்போது, நாங்கள் 'பண்டைய எகிப்து' கண்காட்சி, 'நவீன கலை மாஸ்டர்ஸ்' சேகரிப்பு, மற்றும் 'மெசோசோயிக் டைனோசர்கள்' காட்சி ஆகியவற்றைக் கொண்டுள்ளோம்.",
+
+  "Yes, the upcoming exhibition 'Renaissance Wonders' will open next month on the 15th.": "ஆம், வரவிருக்கும் 'மறுமலர்ச்சி அதிசயங்கள்' கண்காட்சி அடுத்த மாதம் 15ம் தேதி திறக்கப்படும்.",
+
+  "Yes, our permanent collection includes artworks from the 16th century, artifacts from ancient civilizations, and a natural history section.": "ஆம், எங்கள் நிரந்தர சேகரிப்பில் 16ம் நூற்றாண்டின் கலைப்படைப்புகள், பண்டைய நாகரிகங்களின் பொருட்கள், மற்றும் இயற்கை வரலாற்று பிரிவு ஆகியவை அடங்கும்.",
+
+  "Yes, we have several interactive exhibits, including a virtual reality experience in the 'Fossil Discoveries' section and hands-on activities in the 'Science Lab' area.": "ஆம், 'புதைபடிவ கண்டுபிடிப்புகள்' பிரிவில் மெய்நிகர் அனுபவம் மற்றும் 'அறிவியல் ஆய்வகம்' பகுதியில் நேரடி செயல்பாடுகள் உள்ளிட்ட பல ஊடாடும் காட்சிப்பொருட்கள் எங்களிடம் உள்ளன.",
+
+  "Photography is allowed in most areas of the museum, but flash photography and tripods are prohibited. Some special exhibitions may have restrictions.": "அருங்காட்சியகத்தின் பெரும்பாலான பகுதிகளில் புகைப்படம் எடுக்க அனுமதி உண்டு, ஆனால் ஃப்ளாஷ் புகைப்படம் மற்றும் முக்காலிகள் தடை செய்யப்பட்டுள்ளன. சில சிறப்பு கண்காட்சிகளில் கட்டுப்பாடுகள் இருக்கலாம்.",
+
+  "Yes, guided tours are available daily at 11 AM and 2 PM. You can also book private tours in advance.": "ஆம், வழிகாட்டப்பட்ட சுற்றுலாக்கள் தினமும் காலை 11 மணி மற்றும் மதியம் 2 மணிக்கு கிடைக்கின்றன. நீங்கள் முன்கூட்டியே தனியார் சுற்றுலாக்களையும் முன்பதிவு செய்யலாம்.",
+
+  "Yes, we offer workshops for children and adults, as well as educational programs for school groups. Check our website for the latest schedule.": "ஆம், நாங்கள் குழந்தைகள் மற்றும் பெரியவர்களுக்கான பட்டறைகள், மற்றும் பள்ளிக் குழுக்களுக்கான கல்வித் திட்டங்களை வழங்குகிறோம். சமீபத்திய அட்டவணைக்கு எங்கள் வலைத்தளத்தைப் பார்க்கவும்.",
+
+  "Yes, the museum hosts special events like 'Night at the Museum,' lecture series, and family days. Visit our events page for more details.": "ஆம், அருங்காட்சியகம் 'அருங்காட்சியகத்தில் இரவு', சொற்பொழிவு தொடர்கள், மற்றும் குடும்ப தினங்கள் போன்ற சிறப்பு நிகழ்வுகளை நடத்துகிறது. மேலும் விவரங்களுக்கு எங்கள் நிகழ்வுகள் பக்கத்தைப் பார்வையிடவும்.",
+
+  "Yes, the museum is available for private events such as weddings, corporate functions, and parties. Please contact our events team for more information.": "ஆம், திருமணங்கள், கார்ப்பரேட் நிகழ்வுகள், மற்றும் விருந்துகள் போன்ற தனியார் நிகழ்வுகளுக்கு அருங்காட்சியகம் கிடைக்கிறது. மேலும் தகவலுக்கு எங்கள் நிகழ்வுகள் குழுவைத் தொடர்பு கொள்ளவும்.",
+
+  "Yes, our café offers a selection of sandwiches, salads, and beverages. It's open during museum hours.": "ஆம், எங்கள் காஃபேவில் சாண்ட்விச்கள், சலாட்கள், மற்றும் பானங்கள் தேர்வு கிடைக்கிறது. இது அருங்காட்சியக நேரங்களில் திறந்திருக்கும்.",
+
+  "Yes, the museum is fully accessible, with elevators, ramps, and wheelchair-accessible restrooms available.": "ஆம், அருங்காட்சியகம் மின்தூக்கிகள், சாய்வுதளங்கள், மற்றும் சக்கர நாற்காலி அணுகக்கூடிய கழிவறைகளுடன் முழுமையாக அணுகக்கூடியதாக உள்ளது.",
+
+  "Yes, audio guides are available for rent at the front desk in multiple languages.": "ஆம், பல மொழிகளில் ஒலி வழிகாட்டிகள் முன் அலுவலகத்தில் வாடகைக்கு கிடைக்கின்றன.",
+
+  "Yes, strollers are welcome in the museum, and there are designated areas to park them during your visit.": "ஆம், அருங்காட்சியகத்தில் குழந்தை வண்டிகள் வரவேற்கப்படுகின்றன, மற்றும் உங்கள் வருகையின் போது அவற்றை நிறுத்த குறிப்பிட்ட இடங்கள் உள்ளன.",
+
+  "Pets are not allowed in the museum, but service animals are welcome.": "அருங்காட்சியகத்தில் செல்லப்பிராணிகள் அனுமதிக்கப்படுவதில்லை, ஆனால் சேவை விலங்குகள் வரவேற்கப்படுகின்றன.",
+
+  "You can become a member by signing up on our website or at the admissions desk. Memberships come with benefits like free admission, discounts, and special event invitations.": "நீங்கள் எங்கள் இணையதளத்தில் அல்லது நுழைவாயில் மேசையில் பதிவு செய்து உறுப்பினராக ஆக முடியும். உறுப்பினர் உரிமைகள் இலவச நுழைவு, தள்ளுபடி மற்றும் சிறப்பு நிகழ்வு அழைப்புகளைக் கொண்டுள்ளது.",
+    
+  "Type your response here": "உங்கள் பதிலை இங்கே টাইப் செய்யவும்",
+  
+  "Send": "பயன்படுத்து",
+  
+  "Child (0-12 years)": "குழந்தை (0-12 வயது)",
+  
+  "Teen (13-19 years)": "இளைஞர் (13-19 வயது)",
+  
+  "Adult (20-64 years)": "பெரியவர் (20-64 வயது)",
+  
+  "Senior (65+ years)": "மூத்தவர்கள் (65+ வயது)",
+  
+  "Morning": "காலை",
+  
+  "Afternoon": "மதியம்",
+  
+  "Evening": "மாலை",
+  
+  "Male": "ஆண்",
+  
+  "Female": "பெண்",
+  
+  "Other": "மற்றது",
+  
+  "Prefer Not to Say": "சொல்ல விரும்பவில்லை",
+  
+  "Thank you! We are processing your ticket request.": "நன்றி! உங்கள் டிக்கெட் கோரிக்கையை நாங்கள் செயலாக்குகிறோம்.",
+  
+  "Please select a valid time slot from the options.": "தயவுசெய்து விருப்பங்களிலிருந்து சரியான நேரப் பகுதியை தேர்வு செய்யவும்.",
+  
+  "Is there anything else you'd like to know?": "இனிமேல் நீங்கள் ஏதேனும் அறிய விரும்புகிறீர்களா?",
+  
+  "What would you like to know? Here are the options:": "நீங்கள் என்னைக் கேட்க விரும்புகிறீர்கள்? இங்கே விருப்பங்கள் உள்ளன:",
+  
+  "Here are the details for": "இதுவே விவரங்கள்:",
+
+
+  "Welcome to the Museum": "அருங்காட்சியகத்திற்கு வரவேற்கிறோம்",
+  "Your E-Ticket": "உங்கள் மின்னணு டிக்கெட்",
+  "Name": "பெயர்",
+  "Email": "மின்னஞ்சல்",
+  "Number of Tickets": "டிக்கெட் எண்ணிக்கை",
+  "Date of Visit": "வருகை தேதி",
+  "Time of Visit": "வருகை நேரம்",
+  "Total Amount:": "மொத்த தொகை:",
+  "Order ID": "ஆர்டர் ஐடி",
+  "Payment ID": "கட்டணம் ஐடி",
+  "Thank you for your purchase!": "உங்கள் கொள்முதலுக்கு நன்றி!",
+  "Please bring this ticket to the entrance.": "தயவுசெய்து இந்த டிக்கெட்டை நுழைவாயிலில் கொண்டு வாருங்கள்.",
+  "Ticket": "டிக்கெட்",
+  "VirtualTour":"கண்காட்சி",
+  "Explore Our Sculptures": "எங்கள் சிலைகளை ஆராயுங்கள்",
+  "The Seri Rambai Cannon": "செரி ராம்பாய் துப்பாக்கி",
+  "The Five Types of Knowledge": "அறிவின் ஐந்து வகைகள்",
+  "Trumpet Tibet": "தும்பிப் திரிபெட்",
+  "Guanyin stone statue": "குவான்யின் கல் சிலை",
+  "Buddha Stroking the Head Follower": "புத்தர் தலைவனைத் தொட்டுக் கொள்வது",
+  "Dancing Ganesha": "நடனமாடும் கணேசா"
+
+
+}

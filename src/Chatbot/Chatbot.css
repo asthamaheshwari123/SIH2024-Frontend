@@ -1,0 +1,166 @@
+/* Basic reset for the body */
+/* *{
+  color: white;
+} */
+.app {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    background-size: cover; /* Ensure the image covers the whole body */
+    background-position: center; /* Center the background image */
+    background-attachment: fixed; /* Fix the background image while scrolling */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the body takes up at least the full viewport height */
+    background-image: url("/static/1331567.png");
+  }
+  
+  /* Container for the chatbot */
+  .chatbot {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white */
+    backdrop-filter: blur(5px); /* Blur effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative; /* Ensure it layers above the background */
+  }
+  
+  /* Header styling */
+  .chatbot h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  /* Conversation area */
+  .conversation {
+    max-height: 400px;
+    overflow-y: auto;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 5px; /* Adding border-radius for consistency */
+  }
+  
+  /* Webkit browsers like Chrome, Safari */
+  .conversation::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Styling for messages */
+  .message {
+    margin-bottom: 10px;
+  }
+  
+  .message.bot {
+    text-align: left;
+  }
+  
+  .message.user {
+    text-align: right;
+  }
+  
+  .message p {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .message.bot p {
+    background-color: rgba(141, 63, 8,0.2);
+    color: white;
+    border: 2px solid rgb(141, 63, 8);
+    border-radius: 1000px;
+    border-top-left-radius: 5px ;
+  }
+  
+  .message.user p {
+    background-color: rgb(141, 63, 8);
+    color: #fff;
+    border-radius: 900px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid rgb(141, 63, 8);
+  }
+  
+  /* Input area styling */
+  .input-area {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-area form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .input-area input {
+    color: white;
+    flex: 1;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 900px;
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255,0.1);
+  }
+  
+  .input-area button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(141, 63, 8);
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .input-area button:hover {
+    background-color: rgba(210, 105, 30,0.7);
+  }
+  /* Option buttons */
+  .options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: sp;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .options button {
+    background-color: rgb(141, 63, 8);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 1000px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .options button:hover {
+    background-color: rgba(210, 105, 30,0.7);
+  }
+  
+  /* Styling for input placeholder text */
+  input::placeholder {
+    color: white; /* Darker color for placeholder text */
+    opacity: 0.7; /* Ensures the color is visible in all browsers */
+  }
+  
+  /* Additional styling for input fields */
+  input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  

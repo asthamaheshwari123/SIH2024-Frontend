@@ -1,0 +1,192 @@
+Age_Group,Number_of_people_per_day,Gender,Slot,Weekday,Question_Category,Date
+Teen,44,Female,Evening,Tuesday,Gift Shop,2024-08-30
+Child,35,Male,Morning,Thursday,Guided Tours,2024-08-31
+Adult,76,Female,Afternoon,Monday,Art History,2024-09-01
+Senior,19,Male,Evening,Wednesday,Conservation,2024-09-02
+Child,51,Female,Morning,Friday,Facilities,2024-09-03
+Teen,30,Male,Afternoon,Sunday,Membership,2024-09-04
+Adult,67,Female,Evening,Saturday,Special Events,2024-09-05
+Senior,23,Female,Morning,Tuesday,Exhibit Information,2024-09-06
+Child,59,Male,Afternoon,Wednesday,Accessibility,2024-09-07
+Teen,32,Female,Evening,Monday,Educational Programs,2024-09-08
+Adult,71,Male,Morning,Thursday,Art History,2024-09-09
+Senior,21,Female,Afternoon,Friday,Guided Tours,2024-09-10
+Child,48,Male,Evening,Sunday,Conservation,2024-09-11
+Teen,27,Female,Morning,Saturday,Exhibit Information,2024-09-12
+Adult,74,Female,Afternoon,Monday,Special Events,2024-09-13
+Senior,22,Male,Evening,Wednesday,Membership,2024-09-14
+Child,53,Female,Morning,Tuesday,Facilities,2024-09-15
+Teen,35,Male,Afternoon,Thursday,Art History,2024-09-16
+Adult,69,Female,Evening,Friday,Gift Shop,2024-09-17
+Senior,20,Female,Morning,Sunday,Guided Tours,2024-09-18
+Child,45,Male,Afternoon,Saturday,Accessibility,2024-09-19
+Teen,38,Female,Evening,Monday,Special Events,2024-09-20
+Adult,72,Female,Morning,Wednesday,Art History,2024-09-21
+Senior,18,Male,Afternoon,Tuesday,Conservation,2024-09-22
+Child,56,Female,Evening,Friday,Educational Programs,2024-09-23
+Teen,34,Male,Morning,Sunday,Membership,2024-09-24
+Adult,63,Female,Afternoon,Thursday,Guided Tours,2024-09-25
+Senior,24,Male,Evening,Saturday,Exhibit Information,2024-09-26
+Child,49,Female,Morning,Monday,Accessibility,2024-09-27
+Teen,29,Female,Afternoon,Wednesday,Art History,2024-09-28
+Adult,75,Male,Evening,Tuesday,Special Events,2024-09-29
+Senior,19,Female,Morning,Friday,Membership,2024-09-30
+Child,60,Male,Afternoon,Sunday,Facilities,2024-10-01
+Teen,28,Female,Evening,Thursday,Conservation,2024-10-02
+Adult,66,Male,Morning,Saturday,Guided Tours,2024-10-03
+Senior,23,Female,Afternoon,Monday,Special Events,2024-10-04
+Child,47,Female,Evening,Wednesday,Educational Programs,2024-10-05
+Teen,37,Male,Morning,Tuesday,Art History,2024-10-06
+Adult,70,Female,Afternoon,Friday,Gift Shop,2024-10-07
+Senior,21,Female,Evening,Sunday,Exhibit Information,2024-10-08
+Child,52,Male,Morning,Thursday,Guided Tours,2024-10-09
+Teen,31,Female,Afternoon,Saturday,Membership,2024-10-10
+Adult,64,Male,Evening,Monday,Facilities,2024-10-11
+Senior,20,Female,Morning,Wednesday,Conservation,2024-10-12
+Child,57,Male,Afternoon,Tuesday,Accessibility,2024-10-13
+Teen,26,Female,Evening,Friday,Special Events,2024-10-14
+Adult,73,Female,Morning,Sunday,Art History,2024-10-15
+Senior,18,Male,Afternoon,Thursday,Guided Tours,2024-10-16
+Child,50,Female,Evening,Saturday,Conservation,2024-10-17
+Teen,33,Male,Morning,Monday,Special Events,2024-10-18
+Adult,68,Female,Afternoon,Wednesday,Gift Shop,2024-10-19
+Senior,24,Female,Evening,Tuesday,Exhibit Information,2024-10-20
+Child,46,Male,Morning,Friday,Guided Tours,2024-10-21
+Teen,36,Female,Afternoon,Sunday,Membership,2024-10-22
+Adult,67,Male,Evening,Thursday,Facilities,2024-10-23
+Senior,22,Female,Morning,Saturday,Conservation,2024-10-24
+Child,58,Male,Afternoon,Monday,Art History,2024-10-25
+Teen,29,Female,Evening,Wednesday,Educational Programs,2024-10-26
+Adult,71,Female,Morning,Tuesday,Gift Shop,2024-10-27
+Senior,19,Male,Afternoon,Friday,Guided Tours,2024-10-28
+Child,51,Female,Evening,Sunday,Accessibility,2024-10-29
+Teen,30,Female,Morning,Thursday,Special Events,2024-10-30
+Adult,74,Male,Afternoon,Saturday,Art History,2024-10-31
+Senior,23,Female,Evening,Monday,Membership,2024-11-01
+Child,48,Male,Morning,Wednesday,Facilities,2024-11-02
+Teen,35,Female,Afternoon,Tuesday,Conservation,2024-11-03
+Adult,69,Female,Evening,Friday,Special Events,2024-11-04
+Senior,20,Male,Morning,Sunday,Exhibit Information,2024-11-05
+Child,60,Female,Afternoon,Thursday,Guided Tours,2024-11-06
+Teen,27,Female,Evening,Saturday,Art History,2024-11-07
+Adult,72,Male,Morning,Monday,Gift Shop,2024-11-08
+Senior,21,Female,Afternoon,Wednesday,Membership,2024-11-09
+Child,53,Male,Evening,Tuesday,Facilities,2024-11-10
+Teen,38,Female,Morning,Friday,Conservation,2024-11-11
+Adult,75,Female,Afternoon,Sunday,Special Events,2024-11-12
+Senior,18,Male,Evening,Thursday,Educational Programs,2024-11-13
+Child,49,Female,Morning,Saturday,Art History,2024-11-14
+Teen,32,Female,Afternoon,Monday,Guided Tours,2024-11-15
+Adult,63,Male,Evening,Wednesday,Gift Shop,2024-11-16
+Senior,24,Female,Morning,Tuesday,Membership,2024-11-17
+Child,55,Female,Afternoon,Friday,Facilities,2024-11-18
+Teen,34,Female,Evening,Sunday,Conservation,2024-11-19
+Adult,66,Male,Morning,Thursday,Special Events,2024-11-20
+Senior,22,Female,Afternoon,Saturday,Exhibit Information,2024-11-21
+Child,47,Male,Evening,Monday,Guided Tours,2024-11-22
+Teen,31,Female,Morning,Wednesday,Art History,2024-11-23
+Adult,70,Female,Afternoon,Tuesday,Gift Shop,2024-11-24
+Senior,19,Male,Evening,Friday,Educational Programs,2024-11-25
+Child,58,Female,Morning,Sunday,Membership,2024-11-26
+Teen,28,Female,Afternoon,Thursday,Facilities,2024-11-27
+Adult,73,Male,Evening,Saturday,Conservation,2024-11-28
+Senior,20,Female,Morning,Monday,Art History,2024-11-29
+Child,52,Female,Afternoon,Wednesday,Guided Tours,2024-11-30
+Teen,37,Female,Evening,Tuesday,Special Events,2024-12-01
+Adult,64,Female,Morning,Friday,Gift Shop,2024-12-02
+Senior,18,Male,Afternoon,Sunday,Membership,2024-12-03
+Child,50,Male,Evening,Thursday,Conservation,2024-12-04
+Teen,33,Female,Morning,Saturday,Special Events,2024-12-05
+Adult,67,Female,Afternoon,Monday,Art History,2024-12-06
+Senior,23,Male,Evening,Wednesday,Educational Programs,2024-12-07
+Child,46,Female,Morning,Tuesday,Guided Tours,2024-12-08
+Teen,36,Female,Afternoon,Friday,Gift Shop,2024-12-09
+Adult,71,Female,Evening,Sunday,Membership,2024-12-10
+Senior,19,Male,Morning,Thursday,Facilities,2024-12-11
+Child,57,Female,Afternoon,Saturday,Conservation,2024-12-12
+Teen,29,Female,Evening,Monday,Special Events,2024-12-13
+Adult,74,Male,Morning,Wednesday,Gift Shop,2024-12-14
+Senior,24,Female,Afternoon,Tuesday,Membership,2024-12-15
+Child,49,Male,Evening,Friday,Art History,2024-12-16
+Teen,30,Female,Morning,Sunday,Guided Tours,2024-12-17
+Adult,68,Female,Afternoon,Thursday,Special Events,2024-12-18
+Senior,21,Male,Evening,Saturday,Conservation,2024-12-19
+Child,60,Female,Morning,Monday,Gift Shop,2024-12-20
+Teen,35,Female,Afternoon,Wednesday,Art History,2024-12-21
+Adult,75,Female,Evening,Tuesday,Membership,2024-12-22
+Senior,22,Male,Morning,Friday,Facilities,2024-12-23
+Child,48,Female,Afternoon,Sunday,Guided Tours,2024-12-24
+Teen,32,Female,Evening,Thursday,Special Events,2024-12-25
+Adult,67,Female,Morning,Saturday,Art History,2024-12-26
+Senior,20,Male,Afternoon,Monday,Gift Shop,2024-12-27
+Child,51,Female,Evening,Wednesday,Membership,2024-12-28
+Teen,38,Female,Morning,Tuesday,Facilities,2024-12-29
+Adult,69,Female,Afternoon,Friday,Guided Tours,2024-12-30
+Senior,18,Male,Evening,Sunday,Conservation,2024-12-31
+Child,53,Female,Morning,Thursday,Art History,2025-01-01
+Teen,34,Female,Afternoon,Saturday,Special Events,2025-01-02
+Adult,73,Female,Evening,Monday,Gift Shop,2025-01-03
+Senior,21,Male,Morning,Wednesday,Membership,2025-01-04
+Child,55,Female,Afternoon,Tuesday,Facilities,2025-01-05
+Teen,27,Female,Evening,Friday,Guided Tours,2025-01-06
+Adult,72,Female,Morning,Sunday,Art History,2025-01-07
+Senior,23,Female,Afternoon,Thursday,Special Events,2025-01-08
+Child,47,Male,Evening,Saturday,Conservation,2025-01-09
+Teen,31,Female,Morning,Monday,Gift Shop,2025-01-10
+Adult,66,Female,Afternoon,Wednesday,Membership,2025-01-11
+Senior,20,Male,Evening,Tuesday,Facilities,2025-01-12
+Child,58,Female,Morning,Friday,Guided Tours,2025-01-13
+Teen,26,Female,Afternoon,Sunday,Art History,2025-01-14
+Adult,74,Male,Evening,Thursday,Special Events,2025-01-15
+Senior,24,Female,Morning,Saturday,Conservation,2025-01-16
+Child,50,Male,Afternoon,Monday,Gift Shop,2025-01-17
+Teen,33,Female,Evening,Wednesday,Membership,2025-01-18
+Adult,63,Female,Morning,Tuesday,Facilities,2025-01-19
+Senior,19,Male,Afternoon,Friday,Guided Tours,2025-01-20
+Child,56,Female,Evening,Sunday,Educational Programs,2025-01-21
+Teen,28,Male,Morning,Thursday,Art History,2025-01-22
+Adult,70,Female,Afternoon,Saturday,Special Events,2025-01-23
+Senior,22,Female,Evening,Monday,Exhibit Information,2025-01-24
+Child,54,Male,Morning,Wednesday,Accessibility,2025-01-25
+Teen,36,Female,Afternoon,Tuesday,Membership,2025-01-26
+Adult,68,Male,Evening,Friday,Conservation,2025-01-27
+Senior,21,Female,Morning,Sunday,Gift Shop,2025-01-28
+Child,52,Female,Afternoon,Thursday,Guided Tours,2025-01-29
+Teen,30,Male,Evening,Saturday,Art History,2025-01-30
+Adult,75,Female,Morning,Monday,Special Events,2025-01-31
+Senior,18,Male,Afternoon,Wednesday,Facilities,2025-02-01
+Child,59,Female,Evening,Tuesday,Educational Programs,2025-02-02
+Teen,37,Female,Morning,Friday,Membership,2025-02-03
+Adult,71,Male,Afternoon,Sunday,Conservation,2025-02-04
+Senior,23,Female,Evening,Thursday,Exhibit Information,2025-02-05
+Child,46,Male,Morning,Saturday,Accessibility,2025-02-06
+Teen,29,Female,Afternoon,Monday,Gift Shop,2025-02-07
+Adult,65,Female,Evening,Wednesday,Art History,2025-02-08
+Senior,20,Male,Morning,Tuesday,Special Events,2025-02-09
+Child,57,Female,Afternoon,Friday,Guided Tours,2025-02-10
+Teen,35,Male,Evening,Sunday,Membership,2025-02-11
+Adult,69,Female,Morning,Thursday,Facilities,2025-02-12
+Senior,22,Female,Afternoon,Saturday,Conservation,2025-02-13
+Child,51,Male,Evening,Monday,Educational Programs,2025-02-14
+Teen,32,Female,Morning,Wednesday,Art History,2025-02-15
+Adult,73,Male,Afternoon,Tuesday,Gift Shop,2025-02-16
+Senior,19,Female,Evening,Friday,Special Events,2025-02-17
+Child,55,Female,Morning,Sunday,Exhibit Information,2025-02-18
+Teen,28,Male,Afternoon,Thursday,Guided Tours,2025-02-19
+Adult,67,Female,Evening,Saturday,Accessibility,2025-02-20
+Senior,24,Male,Morning,Monday,Membership,2025-02-21
+Child,48,Female,Afternoon,Wednesday,Conservation,2025-02-22
+Teen,36,Female,Evening,Tuesday,Art History,2025-02-23
+Adult,70,Male,Morning,Friday,Special Events,2025-02-24
+Senior,21,Female,Afternoon,Sunday,Gift Shop,2025-02-25
+Child,53,Male,Evening,Thursday,Educational Programs,2025-02-26
+Teen,31,Female,Morning,Saturday,Facilities,2025-02-27
+Adult,64,Female,Afternoon,Monday,Guided Tours,2025-02-28
+Senior,18,Male,Evening,Wednesday,Exhibit Information,2025-03-01
+Child,60,Female,Morning,Tuesday,Accessibility,2025-03-02
+Teen,34,Male,Afternoon,Friday,Membership,2025-03-03
+Adult,72,Female,Evening,Sunday,Conservation,2025-03-04
+Senior,23,Female,Morning,Thursday,Art History,2025-03-05
+Child,49,Male,Afternoon,Saturday,Special Events,2025-03-06
+Teen,30,Female,Evening,Monday,Gift Shop,2025-03-07
+Adult,66,Male,Morning,Wednesday,Educational Programs,2025-03-08

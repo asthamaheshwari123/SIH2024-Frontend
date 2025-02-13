@@ -1,0 +1,39 @@
+.dashboard-style{
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+}
+.page {
+    background-image: url("./static/1331567.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow-y: scroll;
+}
+.page::-webkit-scrollbar {
+    display: none;
+}
+.glass {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.chart-container {
+    transition: all 0.3s ease;
+}
+.chart-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.shadow-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.analysis {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+}
